@@ -1,0 +1,9 @@
+{
+  "_fv": 15,
+  "_type": "painting",
+  "definition": {
+    "texture": "index.png",
+    "width": 128,
+    "height": 128
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cloucubemod:blocks/gallium_ore",
+    "up": "cloucubemod:blocks/gallium_ore",
+    "north": "cloucubemod:blocks/gallium_ore",
+    "east": "cloucubemod:blocks/gallium_ore",
+    "south": "cloucubemod:blocks/gallium_ore",
+    "west": "cloucubemod:blocks/gallium_ore",
+    "particle": "cloucubemod:blocks/gallium_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cloucubemod:blocks/correctrgbleaves",
+    "up": "cloucubemod:blocks/correctrgbleaves",
+    "north": "cloucubemod:blocks/correctrgbleaves",
+    "east": "cloucubemod:blocks/correctrgbleaves",
+    "south": "cloucubemod:blocks/correctrgbleaves",
+    "west": "cloucubemod:blocks/correctrgbleaves",
+    "particle": "cloucubemod:blocks/correctrgbleaves"
+  }
+}

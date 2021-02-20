@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cloucubemod:blocks/rgb_forest_wood",
+    "up": "cloucubemod:blocks/rgb_forest_wood",
+    "north": "cloucubemod:blocks/rgb_forest_wood",
+    "east": "cloucubemod:blocks/rgb_forest_wood",
+    "south": "cloucubemod:blocks/rgb_forest_wood",
+    "west": "cloucubemod:blocks/rgb_forest_wood",
+    "particle": "cloucubemod:blocks/rgb_forest_wood"
+  }
+}

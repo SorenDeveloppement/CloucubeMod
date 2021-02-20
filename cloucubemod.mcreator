@@ -1,0 +1,261 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GalaGlow",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gala_glow"
+    },
+    {
+      "name": "CloucubeMod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cloucube_mod"
+    },
+    {
+      "name": "Galium",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galium"
+    },
+    {
+      "name": "GaliumItem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galium_item"
+    },
+    {
+      "name": "GaliumQuandLeBlocVoisinChange",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galium_quand_le_bloc_voisin_change",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GaliumFusion",
+      "type": "fluid",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galium_fusion"
+    },
+    {
+      "name": "GaliumItemLorsqueLitemEstDansEnMain",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galium_item_lorsque_litem_est_dans_en_main",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GalliumOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gallium_ore"
+    },
+    {
+      "name": "GalliumFragment",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gallium_fragment"
+    },
+    {
+      "name": "GalliumBlockCraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gallium_block_craft"
+    },
+    {
+      "name": "GalliumFluid",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gallium_fluid"
+    },
+    {
+      "name": "GalliumFondu",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gallium_fondu"
+    },
+    {
+      "name": "RgbLeaves",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rgb_leaves"
+    },
+    {
+      "name": "RGBForestLeaves",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rgb_forest_leaves"
+    },
+    {
+      "name": "RGBBiome",
+      "type": "biome",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rgb_biome"
+    },
+    {
+      "name": "Rgbleavescraft",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rgbleavescraft"
+    },
+    {
+      "name": "FliudeAdmin",
+      "type": "fluid",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fliude_admin"
+    },
+    {
+      "name": "Cascade",
+      "type": "biome",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cascade"
+    },
+    {
+      "name": "Pikatchu",
+      "type": "mob",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pikatchu"
+    },
+    {
+      "name": "ClouDimention",
+      "type": "dimension",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clou_dimention",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.cloucubemod.galium_item": "Galium Item",
+      "biome.cloucubemod.rgb_biome": "RGB Biome",
+      "biome.cloucubemod.cascade": "Cascade",
+      "block.cloucubemod.gallium_ore": "Gallium Ore",
+      "item.cloucubemod.pikatchu_spawn_egg": "Pikatchu Spawn Egg",
+      "block.cloucubemod.rgb_leaves": "Rgb Leaves",
+      "item.cloucubemod.fliude_admin_bucket": "FliudeAdmin Bucket",
+      "block.cloucubemod.rgb_forest_leaves": "RGB Forest Leaves",
+      "item.cloucubemod.gallium_fragment": "Gallium Foudu",
+      "item.cloucubemod.galium_fusion_bucket": "GaliumFusion Bucket",
+      "fluid.fliude_admin": "FliudeAdmin",
+      "fluid.galium_fusion": "GaliumFusion",
+      "entity.cloucubemod.pikatchu": "Pikatchu",
+      "block.cloucubemod.galium": "Galium Block",
+      "itemGroup.tabcloucube_mod": "Cloucube Mod - Gallium",
+      "item.cloucubemod.clou_dimention": "Clou Dimention Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "cloucubemod",
+    "modName": "CloucubeMod",
+    "version": "1.0.0",
+    "author": "Gala_Glow",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.galaglow.cloucubemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

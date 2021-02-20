@@ -1,0 +1,42 @@
+{
+  "group": "cloucubemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cloucubemod:galium_item"
+    },
+    "1": {
+      "item": "cloucubemod:galium_item"
+    },
+    "2": {
+      "item": "cloucubemod:galium_item"
+    },
+    "3": {
+      "item": "cloucubemod:galium_item"
+    },
+    "4": {
+      "item": "cloucubemod:galium_item"
+    },
+    "5": {
+      "item": "cloucubemod:galium_item"
+    },
+    "6": {
+      "item": "cloucubemod:galium_item"
+    },
+    "7": {
+      "item": "cloucubemod:galium_item"
+    },
+    "8": {
+      "item": "cloucubemod:galium_item"
+    }
+  },
+  "result": {
+    "item": "cloucubemod:galium",
+    "count": 1
+  }
+}

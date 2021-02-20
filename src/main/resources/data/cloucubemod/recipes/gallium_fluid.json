@@ -1,0 +1,42 @@
+{
+  "group": "cloucubemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "1": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "2": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "3": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "4": {
+      "item": "minecraft:bucket"
+    },
+    "5": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "6": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "7": {
+      "item": "cloucubemod:gallium_fragment"
+    },
+    "8": {
+      "item": "cloucubemod:gallium_fragment"
+    }
+  },
+  "result": {
+    "item": "cloucubemod:deleted_mod_element",
+    "count": 1
+  }
+}

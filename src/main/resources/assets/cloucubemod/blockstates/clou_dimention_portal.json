@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cloucubemod:block/clou_dimention_portal_ew"
+    },
+    "axis=x": {
+      "model": "cloucubemod:block/clou_dimention_portal_ns"
+    }
+  }
+}
